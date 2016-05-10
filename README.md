@@ -1,2 +1,3 @@
-# technomaton.github.io
-Technomaton Ltd Web
+# TEchnomaton Ltd
+
+* Web - http://technomaton.com/
